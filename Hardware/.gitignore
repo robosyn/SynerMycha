@@ -1,0 +1,36 @@
+# ---> KiCAD
+# For PCBs designed using KiCAD: http://www.kicad-pcb.org/
+
+# Reports
+*.rpt
+
+# CPL data generated from PCB
+*.pos
+
+# KiCAD backup
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.sch-bak
+_saved_*
+
+# Netlists
+*.net
+
+# BOM plugin output
+*.csv.tmp
+*.csv
+*.xml
+
+# Gerbers
+*.gbr
+Gerber/
+
+# Drill files
+*.drl
+
+# Footprint info cache
+fp-info-cache
+
+# Autosave files
+_autosave-*
