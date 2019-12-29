@@ -52,9 +52,9 @@ Projekt micromouse'a
 | TLE9201               | brak   | brak  | brak |13.93zł| https://www.tme.eu/pl/details/tle9201sgauma1/drivery-silnikowe-i-pwm/infineon-technologies/ |
 | VCNL4010              | brak   | 44zł  |   https://botland.com.pl/pl/cyfrowe-czujniki-odleglosci/4969-adafruit-vcnl4010-czujnik-odleglosci-i-swiatla-20cm-i2c.html?search_query=vcnl4010&results=1| |tylko chip bez płytki na specjalne zamówienie |
 
-Korzystna oferta: 
-28.90zł https://www.elfadistrelec.pl/pl/czujnik-zblizeniowy-swiatla-vcnl4010-adafruit-466/p/30139237
-
+~ oferta: 
+~ 35zł https://www.elfadistrelec.pl/pl/czujnik-zblizeniowy-swiatla-vcnl4010-adafruit-466/p/30139237
+plus ~50 za przesyłke
 TLE9210 dostępne w labie
 
 
